@@ -1,0 +1,388 @@
+1
+00:00:00,560 --> 00:00:02,660
+Você já parou para se perguntar o que é filosofia?
+
+2
+00:00:02,800 --> 00:00:04,380
+O que faz alguém ser um filósofo?
+
+3
+00:00:04,620 --> 00:00:05,700
+Como se sustentam?
+
+4
+00:00:05,700 --> 00:00:06,520
+Onde vivem?
+
+5
+00:00:06,520 --> 00:00:07,360
+Como se reproduzem?
+
+6
+00:00:07,360 --> 00:00:08,280
+O que comem?
+
+7
+00:00:08,900 --> 00:00:11,160
+Essas últimas perguntas vai ser um pouco difícil de responder agora,
+
+8
+00:00:11,480 --> 00:00:13,300
+mas nesse nosso primeiro vídeo
+
+9
+00:00:13,300 --> 00:00:15,260
+a gente vai tratar sobre o que é filosofia.
+
+10
+00:00:15,900 --> 00:00:17,460
+Então senta na cadeira,
+
+11
+00:00:17,860 --> 00:00:19,640
+dá uma pausada naquele seu vídeo adulto
+
+12
+00:00:19,960 --> 00:00:21,960
+e vamos conversar um pouco sobre filosofia.
+
+13
+00:00:22,280 --> 00:00:23,420
+Meu nome é Kherian Gracher
+
+14
+00:00:23,420 --> 00:00:24,280
+e este é o SciFilo.
+
+15
+00:00:38,340 --> 00:00:39,480
+Para começo de conversa,
+
+16
+00:00:39,480 --> 00:00:41,480
+eu não vou ficar falando da onde que veio o termo filosofia...
+
+17
+00:00:41,800 --> 00:00:44,200
+Que é grego, significa amor ao conhecimento, esse tipo de coisa.
+
+18
+00:00:44,560 --> 00:00:48,440
+Pesquisa aí no Google que você vai encontrar várias explicações que vão para esse lado...
+
+19
+00:00:48,960 --> 00:00:51,120
+Só que nessas explicações você vai reparar que
+
+20
+00:00:51,120 --> 00:00:54,580
+existem dezenas, talvez centenas de explicações diferentes para o que é filosofia.
+
+21
+00:00:54,860 --> 00:00:59,880
+Esse problema se dá, grande parte das vezes, porque o próprio problema de se entender
+
+22
+00:00:59,880 --> 00:01:02,240
+a natureza da filosofia é um problema filosófico.
+
+23
+00:01:02,380 --> 00:01:06,240
+No final das contas nós não temos uma definição precisa e clara do que é essa disciplina.
+
+24
+00:01:06,580 --> 00:01:09,700
+Se você é um estudante de filosofia ou mesmo um filósofo profissional,
+
+25
+00:01:09,700 --> 00:01:12,780
+já deve ter passado pela situação incômoda de estar no meio de uma festa
+
+26
+00:01:12,780 --> 00:01:15,420
+e aquela sua tia - aquela que está cheia dos gatos -
+
+27
+00:01:15,420 --> 00:01:18,580
+vim te perguntar: "Mas então, o que é filosofia?"
+
+28
+00:01:18,580 --> 00:01:20,720
+Essa situação incômoda acontece
+
+29
+00:01:20,720 --> 00:01:24,400
+porque em grande parte das vezes nós não temos uma resposta pronta para dar.
+
+30
+00:01:24,700 --> 00:01:28,540
+Nem os grandes filósofos conseguiram responder essa pergunta sem encontrar alguns problemas.
+
+31
+00:01:29,520 --> 00:01:33,680
+Nós compreendemos geralmente a filosofia tratando filosofia, ou seja, nós compreendemos
+
+32
+00:01:33,680 --> 00:01:35,060
+a filosofia contextualmente.
+
+33
+00:01:35,060 --> 00:01:37,740
+Conforme vamos discutindo filosofia e trabalhando e trabalhando com ela.
+
+34
+00:01:38,000 --> 00:01:41,340
+Os problemas filosóficos vão nos auxiliar para compreender melhor essa área.
+
+35
+00:01:41,760 --> 00:01:46,220
+Como eu disse anteriormente, nós não temos uma definição precisa acerca da natureza da filosofia.
+
+36
+00:01:46,520 --> 00:01:49,860
+Mas nem por isso nós não podemos trabalhar com algumas caracterizações gerais.
+
+37
+00:01:50,240 --> 00:01:53,480
+O primeiro tópico por exemplo é a natureza dos problemas filosóficos.
+
+38
+00:01:53,780 --> 00:01:58,020
+Os problemas filosóficos são problemas fundamentais acerca de diversos assuntos como:
+
+39
+00:01:58,080 --> 00:02:05,300
+a própria realidade, existência, conhecimento, valores morais, estéticos, razão, mente, própria linguagem...
+
+40
+00:02:05,760 --> 00:02:10,340
+Mas se pararmos para pensar, existem várias outras ciências que também trabalham com problemas fundamentais.
+
+41
+00:02:10,580 --> 00:02:14,300
+Por exemplo a física, que trabalha com os problemas fundamentais acerca da natureza física do mundo.
+
+42
+00:02:14,900 --> 00:02:18,500
+Então a gente pode ir para um segundo tópico: o tipo de problema filosófico.
+
+43
+00:02:18,720 --> 00:02:21,480
+Os problemas filosóficos são problemas conceituais.
+
+44
+00:02:22,060 --> 00:02:26,800
+São problemas que nós não podemos tratar empiricamente indo em um laboratório e achando a solução para esses problemas.
+
+45
+00:02:27,340 --> 00:02:32,400
+Mas pense bem: a gente trabalha em uma outra área bastante conceitual, que é a matemática.
+
+46
+00:02:32,580 --> 00:02:36,500
+Então o que diferencia a matemática da filosofia? O raciocínio empregado.
+
+47
+00:02:36,720 --> 00:02:41,540
+O raciocínio filosófico é marcado pela argumentação crítica, sistemática e racional
+
+48
+00:02:41,540 --> 00:02:43,120
+para solucionar os problemas filosóficos.
+
+49
+00:02:43,120 --> 00:02:46,160
+Enquanto isso a matemática tem um tipo de raciocínio específico
+
+50
+00:02:46,400 --> 00:02:50,420
+Por exemplo, nós podemos verificar os cálculos matemáticos colocando-os em um computador
+
+51
+00:02:50,420 --> 00:02:51,740
+em grande parte das vezes.
+
+52
+00:02:52,220 --> 00:02:56,720
+Mas nós não conseguimos uma solução para os problemas filosóficos colocando os problemas no computador.
+
+53
+00:02:56,720 --> 00:03:01,840
+Esse tipo de solução não é encontrado via mero raciocínio matemático.
+
+54
+00:03:02,420 --> 00:03:05,880
+Com isso, nós vamos para o próximo tópico: que é a verificação.
+
+55
+00:03:06,020 --> 00:03:11,120
+Nós não verificamos se uma resposta a um problema filosófico é verdadeira ou não indo para um laboratório,
+
+56
+00:03:11,120 --> 00:03:15,020
+fazendo isso sozinho, sentado em uma poltrona ou mesmo pedindo ajuda para um computador.
+
+57
+00:03:15,480 --> 00:03:22,100
+Nós verificamos e analisamos as respostas filosóficas em debate, em conversa, em argumentação.
+
+58
+00:03:22,100 --> 00:03:25,420
+Nós precisamos avaliar a argumentação a favor ou contra.
+
+59
+00:03:25,620 --> 00:03:29,600
+Por isso que dizem que filosofia é uma disciplina não dogmática.
+
+60
+00:03:29,860 --> 00:03:35,640
+Porque nós não conseguimos fazer filosofia séria sem fazer uma avaliação de todas as posições alternativas
+
+61
+00:03:35,640 --> 00:03:36,540
+de um debate.
+
+62
+00:03:36,880 --> 00:03:41,600
+Por fim, vale notar que a filosofia pode geralmente ser dividida em 3 grandes áreas:
+
+63
+00:03:41,820 --> 00:03:43,540
+A primeira por exemplo é a metafísica,
+
+64
+00:03:43,540 --> 00:03:47,660
+cujos problemas tratam acerca da natureza mais básica da realidade.
+
+65
+00:03:47,720 --> 00:03:50,960
+Alguns problemas famosos dessa área são por exemplo:
+
+66
+00:03:51,220 --> 00:03:55,440
+O que são as propriedades como ser laranja ou ser um livro?
+
+67
+00:03:56,240 --> 00:04:00,900
+Um outro grande problema é por que há algo e não nada? Ou o que é verdade?
+
+68
+00:04:01,180 --> 00:04:05,960
+Uma outra grande área da filosofia é a epistemologia, também conhecida como Teoria do Conhecimento.
+
+69
+00:04:06,220 --> 00:04:10,320
+Essa área é marcada por problemas que tentam compreender o que é conhecimento,
+
+70
+00:04:10,320 --> 00:04:13,400
+quais são as nossas faculdades cognitivas que nos permitem conhecer o mundo
+
+71
+00:04:13,400 --> 00:04:15,380
+e como podemos conhecer o mundo.
+
+72
+00:04:15,640 --> 00:04:20,180
+Alguns grandes problemas dessa área são, por exemplo, o que é o conhecimento?
+
+73
+00:04:20,500 --> 00:04:24,800
+É o testemunho uma boa forma de justificação? O que seria o conhecimento a priori?
+
+74
+00:04:25,400 --> 00:04:30,040
+Uma terceira grande área da filosofia é a filosofia moral - ou ética, cujos problemas centrais
+
+75
+00:04:30,040 --> 00:04:34,740
+tratam para compreender o que é o certo a se fazer, quais são as nossas ações justas.
+
+76
+00:04:34,980 --> 00:04:38,960
+Alguns exemplos de problemas clássicos nessas áreas são: o que é o bom? O que é o correto?
+
+77
+00:04:38,960 --> 00:04:40,960
+O que é moralmente errado?
+
+78
+00:04:41,340 --> 00:04:47,640
+Em ética prática temos por exemplo: é o aborto permissível? A eutanásia é moralmente correta?
+
+79
+00:04:47,900 --> 00:04:51,520
+Existe uma quarta área que as pessoas também acreditam que possa ser da filosofia.
+
+80
+00:04:51,520 --> 00:04:53,820
+Eu particularmente acho que não, que é a lógica.
+
+81
+00:04:53,940 --> 00:04:57,860
+Eu acredito pelo menos que a lógica é uma disciplina muito mais matemática que filosófica.
+
+82
+00:04:58,020 --> 00:05:03,760
+Tem, claro, a filosofia da lógica. Mas a própria lógica em si é uma disciplina matemática, que é uma ferramenta
+
+83
+00:05:03,760 --> 00:05:07,160
+extremamente útil para a filosofia, como teoria da argumentação.
+
+84
+00:05:07,420 --> 00:05:09,420
+Nos próximos vídeos vamos falar mais sobre isso.
+
+85
+00:05:11,660 --> 00:05:16,120
+Bom, dessas três grandes áreas que eu disse, nós temos agora as intersecções, as subáreas,
+
+86
+00:05:16,120 --> 00:05:18,820
+que aparecem em diversos outros problemas filosóficos.
+
+87
+00:05:18,820 --> 00:05:22,740
+Como por exemplo filosofia da arte, filosofia da mente, filosofia da ciência...
+
+88
+00:05:22,740 --> 00:05:24,740
+Peguemos por exemplo filosofia da arte.
+
+89
+00:05:24,740 --> 00:05:27,940
+Filosofia da arte tem 3 grandes problemas. Vamos pensar:
+
+90
+00:05:27,940 --> 00:05:36,140
+O que é arte? É arte um mecanismo para passar valores morais? Ou, podemos obter conhecimento através da arte?
+
+91
+00:05:36,140 --> 00:05:40,720
+Esses problemas são, intrinsicamente, problemas de metafísica, problemas de filosofia moral
+
+92
+00:05:40,720 --> 00:05:42,020
+e problemas de epistemologia.
+
+93
+00:05:42,460 --> 00:05:47,260
+No entanto, podemos perceber que o tema principal desses problemas é o mesmo: arte.
+
+94
+00:05:48,280 --> 00:05:51,320
+Nos próximos vídeos a gente vai trabalhar mais sobre esses e outros problemas.
+
+95
+00:05:51,320 --> 00:05:54,100
+Principalmente com essas 3 grandes áreas - e com lógica também.
+
+96
+00:05:54,280 --> 00:05:58,960
+Bom, eu espero que tenham gostado. Inscrevam-se, e se puderem, compartilhem!
+
+97
+00:05:59,400 --> 00:06:00,260
+Até a próxima!
+
