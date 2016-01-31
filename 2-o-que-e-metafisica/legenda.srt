@@ -1,0 +1,460 @@
+1
+00:00:00,380 --> 00:00:02,020
+Eaí gente, tudo bem?
+
+2
+00:00:02,440 --> 00:00:07,380
+Antes de mais nada: microfone de lapela, posterzinho...
+
+3
+00:00:07,660 --> 00:00:08,280
+Seguinte.
+
+4
+00:00:08,740 --> 00:00:12,060
+No último vídeo a gente falou sobre o que era filosofia, tá lembrado?
+
+5
+00:00:12,060 --> 00:00:16,280
+No final dele eu falei sobre três grandes áreas da filosofia, até citei alguns problemas...
+
+6
+00:00:16,500 --> 00:00:22,520
+As áreas eram metafísica, epistemologia (ou teoria do conhecimento) e filosofia moral (ética).
+
+7
+00:00:23,040 --> 00:00:27,440
+Então, não está lembrado? Não assistiu? Clica aqui.
+
+8
+00:00:27,440 --> 00:00:29,440
+Apareceu a caixinha né? Então...
+
+9
+00:00:31,980 --> 00:00:37,160
+Seguinte: eu fiquei pensando que talvez as 3 grandes áreas pudessem ser explicadas um pouquinho melhor.
+
+10
+00:00:37,180 --> 00:00:40,680
+Então nos próximos 3 vídeos, eu vou dedicar cada um a uma dessas áreas.
+
+11
+00:00:40,680 --> 00:00:42,560
+Hoje vai ser metafísica. Que tal?
+
+12
+00:00:42,560 --> 00:00:47,580
+Está querendo entender por que um filósofo morre toda vez que as livrarias colocam um livro do Kama Sutra
+
+13
+00:00:47,580 --> 00:00:49,920
+na área da filosofia dizendo que aquilo é metafísica?
+
+14
+00:00:50,300 --> 00:00:52,300
+Vamos discutir um pouco sobre metafísica então?
+
+15
+00:00:52,540 --> 00:00:55,120
+Meu nome é Kherian Gracher e este é o SciFilo.
+
+16
+00:01:08,700 --> 00:01:11,580
+Antes de mais nada: não, NÃOOOO!
+
+17
+00:01:15,000 --> 00:01:18,520
+Metafísica não significa "além da física".
+
+18
+00:01:18,780 --> 00:01:23,200
+Isso é um erro muito comum que as pessoas tem por causa que a etimologia da palavra,
+
+19
+00:01:23,580 --> 00:01:27,740
+lá do grego, "meta" era um prefixo que significava "além de",
+
+20
+00:01:27,920 --> 00:01:30,880
+e "física"...significava física mesmo.
+
+21
+00:01:31,440 --> 00:01:35,540
+Só uma nota, está vendo o íconezinho que apareceu aqui agora pouco? Apareceu aqui, está vendo?
+
+22
+00:01:36,420 --> 00:01:42,520
+Isso significa o seguinte: quando eu estiver falando alguma coisa que pode ser um pouco complicado
+
+23
+00:01:42,520 --> 00:01:44,640
+mas que eu não quero me deter muito nisso...
+
+24
+00:01:44,780 --> 00:01:48,220
+Por exemplo, agora eu falei sobre etimologia da palavra - se você não conhecer, por exemplo.
+
+25
+00:01:48,480 --> 00:01:52,380
+Esse íconezinho está dizendo que vai ter uma nota sobre isso lá embaixo. Beleza?
+
+26
+00:01:53,580 --> 00:01:54,420
+Voltando.
+
+27
+00:01:54,840 --> 00:01:58,580
+A disciplina metafísica tem o nome que tem por um motivo histórico.
+
+28
+00:01:59,100 --> 00:02:03,560
+Aristóteles, aquele filósofo grego que usava uma túnica - que foi o mestre do Alexandre, o Grande -
+
+29
+00:02:03,780 --> 00:02:05,780
+Então, esse cara foi um gênio.
+
+30
+00:02:06,000 --> 00:02:10,080
+Ele trabalhou em várias e várias e várias áreas diferentes. Ele falou bastante sobre física,
+
+31
+00:02:10,080 --> 00:02:16,360
+ele falou sobre artes, poesia, falou sobre biologia - tanto é que a taxonomia que se usa na biologia veio dele.
+
+32
+00:02:16,620 --> 00:02:17,860
+E falou sobre filosofia.
+
+33
+00:02:18,240 --> 00:02:23,320
+Depois, quando foram reunir as obras do Aristóteles, eles resolveram "ajuntá-las" por tópicos.
+
+34
+00:02:23,520 --> 00:02:29,400
+Então teve lá um tópico que era biologia, teve outro sobre física...
+
+35
+00:02:29,940 --> 00:02:35,320
+E os tópicos da filosofia? E os tópicos na qual ele discutia problemas que eram muito gerais acerca da natureza?
+
+36
+00:02:36,020 --> 00:02:42,080
+Esses tópicos eles reuniram e colocaram o livro após o livro da física, por isso "metafísica" - além da física.
+
+37
+00:02:42,560 --> 00:02:46,000
+É só isso. Mas vamos parar com esse papo histórico e vamos para o que interessa?
+
+38
+00:02:46,960 --> 00:02:50,840
+A fronteira do que deve ou não ser considerado metafísica é um pouco vaga até hoje.
+
+39
+00:02:51,140 --> 00:02:55,200
+Principalmente por que tal como a filosofia, que a gente viu no outro vídeo, não existe uma definição muito
+
+40
+00:02:55,200 --> 00:02:57,200
+precisa para o que é metafísica.
+
+41
+00:02:58,080 --> 00:03:02,880
+Geralmente, cada período histórico considerou algo como metafísica ou não. Principalmente
+
+42
+00:03:02,880 --> 00:03:05,060
+pelas teorias que eram vigentes naquela época.
+
+43
+00:03:05,920 --> 00:03:07,920
+Aristóteles...espera um instantinho só.
+
+44
+00:03:10,660 --> 00:03:14,380
+O Aristóteles encarava a metafísica de um modo bem específico.
+
+45
+00:03:14,600 --> 00:03:19,160
+Ele acreditava que era a "filosofia primeira" ou a "ciência do ser enquanto ser".
+
+46
+00:03:19,300 --> 00:03:24,520
+De modo geral ele tomava a metafísica como um estudo universal das caracterizações mais gerais
+
+47
+00:03:24,520 --> 00:03:25,960
+daquilo que existe.
+
+48
+00:03:27,220 --> 00:03:29,380
+Vamos citar uns exemplos que fica mais fácil?
+
+49
+00:03:29,820 --> 00:03:30,520
+Seguinte.
+
+50
+00:03:31,080 --> 00:03:35,080
+Pensa no azul desse cartaz aqui, desse poster. Certo?
+
+51
+00:03:35,560 --> 00:03:38,180
+Que propriedade é essa? Propriedade "ser azul"?
+
+52
+00:03:38,560 --> 00:03:41,760
+Agora pensa no azul deste livro aqui.
+
+53
+00:03:43,180 --> 00:03:48,320
+São duas propriedades azuis? Ou é uma mesma propriedade que está em dois lugares diferentes?
+
+54
+00:03:48,640 --> 00:03:53,320
+O azul deste livro e o azul deste cartaz são propriedades distintas ou é a mesma?
+
+55
+00:03:53,640 --> 00:03:54,740
+Não sei...
+
+56
+00:03:55,440 --> 00:04:00,720
+Com os medievais, a metafísica começou a tomar uma roupagem religiosa. Eles acreditavam
+
+57
+00:04:00,720 --> 00:04:04,360
+que a metafísica deveria tratar mais da existência e da natureza de Deus.
+
+58
+00:04:04,680 --> 00:04:09,040
+Dois problemas famosos que foram muito discutidos entre aqueles filósofos era, por exemplo,
+
+59
+00:04:09,040 --> 00:04:13,300
+a natureza divina. Seria Deus onipotente (todo poderoso)?
+
+60
+00:04:13,300 --> 00:04:15,680
+Seria Deus onisciente (sabia de tudo)?
+
+61
+00:04:15,680 --> 00:04:18,160
+Ele era onipresente (estava em todos os lugares)?
+
+62
+00:04:18,840 --> 00:04:24,500
+Um outro problema muito famoso daquela época era compatibilizar a onisciência divina e o livre-arbítrio.
+
+63
+00:04:24,700 --> 00:04:30,200
+Por exemplo, se Deus era onisciente, então ele sabia de tudo desde o começo dos tempos.
+
+64
+00:04:30,640 --> 00:04:33,960
+Então ele sabia, por exemplo, que eu estaria aqui, gravando esse vídeo hoje.
+
+65
+00:04:34,080 --> 00:04:36,640
+Mas, se eu tenho livre-arbítrio e eu poderia escolher...
+
+66
+00:04:36,780 --> 00:04:39,080
+então eu poderia ter escolhido não gravar esse vídeo?
+
+67
+00:04:39,080 --> 00:04:41,240
+Não sei. Também não sei.
+
+68
+00:04:41,640 --> 00:04:46,000
+A partir de mais ou menos o século XVII, a ciência moderna começou a se desenvolver.
+
+69
+00:04:46,200 --> 00:04:50,220
+Com ela, muitas pessoas começaram a questionar a filosofia e a própria metafísica,
+
+70
+00:04:50,220 --> 00:04:54,120
+uma vez que ela não produzia os mesmos tipos de resultados que a ciência.
+
+71
+00:04:54,380 --> 00:04:57,980
+Querendo ou não, as pessoas começaram a acreditar que a ciência conseguia construir conhecimento
+
+72
+00:04:57,980 --> 00:05:01,200
+acerca da realidade. Conhecimento seguro acerca do mundo, da natureza.
+
+73
+00:05:01,440 --> 00:05:04,000
+Metafísica sempre era uma coisa muito debatida...
+
+74
+00:05:04,320 --> 00:05:09,220
+Grandes filósofos, como por exemplo Kant e Hume, questionaram e atacaram MESMO a metafísica,
+
+75
+00:05:09,220 --> 00:05:11,300
+acreditando que deveríamos abandoná-la.
+
+76
+00:05:11,300 --> 00:05:15,920
+Várias escolas filosóficas posteriores a eles ainda aceitavam isso, como por exemplo o positivismo
+
+77
+00:05:15,920 --> 00:05:18,880
+lógico, que é uma escola agora, do século XX.
+
+78
+00:05:20,100 --> 00:05:23,960
+Até hoje é meio comum ainda encontrar pessoas que negam a metafísica, que tem uma certa aversão.
+
+79
+00:05:23,960 --> 00:05:28,800
+Mas nos dias de hoje, as discussões e os problemas metafísicos voltaram e estão sedimentados
+
+80
+00:05:28,800 --> 00:05:31,880
+nas discussões filosóficas - e essa aversão é meio que deixada de lado.
+
+81
+00:05:32,520 --> 00:05:38,200
+De modo geral, podemos dizer então que a metafísica é uma investigação filosófica acerca da natureza,
+
+82
+00:05:38,200 --> 00:05:41,580
+constituição e das estruturas mais básicas da realidade.
+
+83
+00:05:41,760 --> 00:05:46,900
+Quando formulamos perguntas acerca da natureza de algo, mas não apenas da natureza física e material,
+
+84
+00:05:46,900 --> 00:05:49,880
+estamos formulando as perguntas que são perguntas metafísicas.
+
+85
+00:05:51,060 --> 00:05:55,500
+Dois exemplos famosos que nós podemos utilizar para explicar um pouco o que é metafísica,
+
+86
+00:05:55,500 --> 00:05:57,500
+por exemplo, é o que é verdade.
+
+87
+00:05:57,840 --> 00:05:58,920
+O que é verdade?
+
+88
+00:05:58,920 --> 00:05:59,720
+Não sei...
+
+89
+00:06:04,520 --> 00:06:10,460
+E outro grande problema é, por exemplo, entendermos como que os objetos mantém uma certa identidade
+
+90
+00:06:10,460 --> 00:06:12,260
+ao longo do tempo - se é que eles mantém.
+
+91
+00:06:12,260 --> 00:06:15,760
+Por exemplo, será que o você de hoje é o mesmo que foi ontem
+
+92
+00:06:15,760 --> 00:06:17,760
+e você do futuro vai ser o mesmo que é de hoje?
+
+93
+00:06:17,860 --> 00:06:19,340
+Não sei!
+
+94
+00:06:20,060 --> 00:06:20,920
+Também não sei...
+
+95
+00:06:21,680 --> 00:06:25,720
+Torço que toda esta explicação tenha te ajudado a entender um pouco mais, tenha ficado mais claro
+
+96
+00:06:25,720 --> 00:06:26,700
+o que é metafísica.
+
+97
+00:06:26,980 --> 00:06:30,360
+A metafísica, na verdade, é uma disciplina - uma subdisciplina da filosofia -
+
+98
+00:06:30,540 --> 00:06:32,540
+que tem problemas MUITO interessantes
+
+99
+00:06:32,540 --> 00:06:36,580
+e algumas coisas muito legais. E eu pretendo falar mais sobre isso nos próximos vídeos.
+
+100
+00:06:36,820 --> 00:06:41,200
+Mas antes de acabar, eu queria te fazer duas perguntinhas - você pode responder aqui nos comentários.
+
+101
+00:06:41,500 --> 00:06:45,560
+E pode ser simples, não precisa dar uma explicação completa não, só precisa falar o que vocês preferem
+
+102
+00:06:45,560 --> 00:06:46,620
+nesse caso.
+
+103
+00:06:46,620 --> 00:06:48,220
+A primeira pergunta é o seguinte:
+
+104
+00:06:48,480 --> 00:06:56,100
+Qual sistema operacional, pro seu celular, você prefere: Android, iOS (iPhone) ou Windows Phone?
+
+105
+00:06:56,200 --> 00:06:58,420
+Agora a segunda pergunta é um pouquinho mais capciosa.
+
+106
+00:06:59,300 --> 00:07:03,820
+Quando vocês pretendem avaliar o que é o certo, qual é o correto a se fazer, vocês preferem:
+
+107
+00:07:03,820 --> 00:07:08,880
+uma teoria deontológica kantiana ou uma teoria utilitarista?
+
+108
+00:07:09,660 --> 00:07:12,440
+Bom, vou ficando por aqui. Espero que tenham gostado...
+
+109
+00:07:12,440 --> 00:07:13,700
+Foi ruim?
+
+110
+00:07:13,700 --> 00:07:15,180
+Foi ótimo...
+
+111
+00:07:15,880 --> 00:07:21,040
+Se inscrevam no canal, curtam se realmente gostaram e tenta compartilha isso (dá uma ajuda).
+
+112
+00:07:21,040 --> 00:07:24,520
+E olha, muito obrigado pra todo mundo que está dando uma força, falando que o canal está legal,
+
+113
+00:07:24,520 --> 00:07:26,100
+eu pretendo continuar.
+
+114
+00:07:26,100 --> 00:07:29,300
+Se inscreva mesmo, isso dá uma força também pra mim.
+
+115
+00:07:29,420 --> 00:07:31,180
+Obrigado e até a próxima!
+
