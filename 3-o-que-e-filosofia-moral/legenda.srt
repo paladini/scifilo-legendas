@@ -1,0 +1,372 @@
+1
+00:00:00,700 --> 00:00:02,700
+Eaí gente, beleza?
+
+2
+00:00:02,700 --> 00:00:04,080
+Saudade de mim?
+
+3
+00:00:04,080 --> 00:00:07,800
+Bom. No último vídeo, "O que é metafísica?", que está passando aqui do lado.
+
+4
+00:00:07,800 --> 00:00:11,340
+Eu fiz duas perguntinhas pra vocês e pedi que respondessem nos comentários.
+
+5
+00:00:11,540 --> 00:00:17,160
+A primeira pergunta era sobre os smartphones: qual sistema operacional vocês preferem?
+
+6
+00:00:17,160 --> 00:00:19,160
+Android, iOS ou Windows Phone?
+
+7
+00:00:19,160 --> 00:00:22,740
+E a segunda pergunta era sobre o sistema moral que vocês preferiam:
+
+8
+00:00:22,740 --> 00:00:26,080
+se era um sistema deontológico kantiano ou utilitarista.
+
+9
+00:00:26,080 --> 00:00:31,380
+Obrigado todo mundo que respondeu, mas eu tenho que contar que essa pergunta não foi originalmente feita por mim.
+
+10
+00:00:31,380 --> 00:00:37,400
+Ela foi feita pelo filósofo norte-americano Damom Horo...Hiro...Horowitz. Enfim...
+
+11
+00:00:38,200 --> 00:00:41,100
+Ele fez essa pergunta numa palestra TED no Vale do Silício.
+
+12
+00:00:41,440 --> 00:00:47,120
+O interessante é que nessa palestra, quando ele fez essa pergunta, grande parte da audiência levantava
+
+13
+00:00:47,120 --> 00:00:52,180
+a mão quando ia falar acerca do sistema operacional pro celular. Todos tinham uma opinião forte sobre isso.
+
+14
+00:00:52,680 --> 00:00:57,260
+Só que quando ele pediu para responderem a pergunta acerca da questão moral
+
+15
+00:00:57,980 --> 00:00:59,440
+poucas pessoas levantaram a mão.
+
+16
+00:00:59,440 --> 00:01:06,420
+Não é estranho que hoje em dia nós temos mais certezas de opiniões sobre sistemas para os nossos eletrônicos do que
+
+17
+00:01:06,420 --> 00:01:10,820
+com um sistema moral, que querendo ou não é aquilo que vai guiar o modo como nos comportamos?
+
+18
+00:01:11,100 --> 00:01:15,440
+Então vamos falar um pouquinho sobre filosofia moral? Meu nome é Kherian Gracher e esse é o SciFilo.
+
+19
+00:01:28,880 --> 00:01:34,120
+Bom, antes que me perguntem qual a distinção entre ética e moral: não existe nenhuma.
+
+20
+00:01:34,120 --> 00:01:39,160
+Alguns podem falar que ética é um termo que veio do grego ("ethos") e blábláblá...
+
+21
+00:01:39,160 --> 00:01:41,500
+Que é um monte de coisa sobre a origem da palavra que eu não quero falar.
+
+22
+00:01:41,660 --> 00:01:44,100
+E moral é a tradução latina do termo "ética".
+
+23
+00:01:44,400 --> 00:01:48,140
+A questão é o seguinte, contemporâneamente as pessoas já não fazem mais esse tipo de distinções.
+
+24
+00:01:48,860 --> 00:01:55,620
+Por exemplo, uma outra distinção comum é acreditar que ética é o modo como devemos nos comportar em sociedade para vivermos bem e
+
+25
+00:01:55,620 --> 00:01:59,860
+moral são as regras impostas por essa sociedade que devem guiar os nossos comportamentos.
+
+26
+00:02:00,640 --> 00:02:04,160
+Os filósofos contemporâneos já não fazem mais esse tipo de distinções, principalmente
+
+27
+00:02:04,160 --> 00:02:06,440
+porque ela não é precisa e nem é útil.
+
+28
+00:02:06,780 --> 00:02:10,480
+Espero que vocês vejam ao longo do vídeo que ética e moral são termos sinônimos.
+
+29
+00:02:11,680 --> 00:02:18,200
+Seguindo. A filosofia contemporânea hoje é dividida em 3 sub-áreas, sendo elas a (a) Ética Normativa,
+
+30
+00:02:18,200 --> 00:02:20,200
+a (b) Ética Aplicada e a (c) Metaética.
+
+31
+00:02:20,520 --> 00:02:22,520
+Vamos conversar um pouco sobre essas áreas?
+
+32
+00:02:22,880 --> 00:02:27,980
+A ética normativa é a sub-área da ética que estuda os princípios que determinam o que é certo ou errado,
+
+33
+00:02:28,280 --> 00:02:32,300
+bom ou mal, em respeito ao caráter e a cultura que devem ser aceitos.
+
+34
+00:02:32,480 --> 00:02:37,320
+Mas note bem, a ética normativa não estuda como as pessoas efetivamente pensam ou agem
+
+35
+00:02:37,320 --> 00:02:39,660
+mas sim como elas deveriam pensar ou agir.
+
+36
+00:02:39,860 --> 00:02:45,180
+Por isso ela é chamada de normativa, uma vez que estuda as normas e princípios que deveriam ser aceitos.
+
+37
+00:02:45,560 --> 00:02:50,620
+Vamos pegar um exemplo: pense, por exemplo, no problema de saber quais são as ações corretas.
+
+38
+00:02:50,820 --> 00:02:56,060
+Deveríamos levar em consideração quando julgamos se uma ação é correta ou não, apenas as consequências
+
+39
+00:02:56,060 --> 00:03:00,940
+que essas ações trazem ou devemos pensar também nas intenções dos agentes que cometeram essa ação?
+
+40
+00:03:01,620 --> 00:03:06,160
+Olha esse caso. Imagine que tem um serial killer apontando a sua arma para um parque de diversões
+
+41
+00:03:06,380 --> 00:03:12,740
+e ele atira, mas sem saber, ele matou um terrorista que estava com quilos de bomba no corpo e ia explodir todo o parque.
+
+42
+00:03:12,980 --> 00:03:16,300
+A ação do serial killer é correta ou incorreta?
+
+43
+00:03:16,580 --> 00:03:23,920
+Por um lado podemos pensar que a ação é correta, uma vez que matar um terrorista cheio de bombas traz boas consequências,
+
+44
+00:03:23,920 --> 00:03:26,640
+ou seja, ele evitou dor e sofrimento futuro.
+
+45
+00:03:27,200 --> 00:03:31,520
+Por outro lado, se pensarmos nas intenções do serial killer, não parece que essa ação foi correta.
+
+46
+00:03:31,520 --> 00:03:38,340
+uma vez que ele não queria matar um terrorista, ele queria matar qualquer pessoa que estivesse passando.
+
+47
+00:03:38,860 --> 00:03:43,160
+Vejamos uma outra área da ética, que é a ética aplicada. Nesta área visamos trabalhar
+
+48
+00:03:43,160 --> 00:03:48,360
+de um ponto de vista moral os problemas particulares da nossa vida pública e privada.
+
+49
+00:03:48,360 --> 00:03:53,080
+Grande parte dos problemas em ética prática, na verdade, tratam de compreender como devemos
+
+50
+00:03:53,080 --> 00:03:57,880
+aplicar as normas e princípios, estudados pela ética normativa, em casos particulares.
+
+51
+00:03:58,200 --> 00:04:01,460
+Vamos ver um exemplo? Que é o caso da eutanásia.
+
+52
+00:04:01,460 --> 00:04:04,600
+Digamos que você aceite esses 3 princípios como sendo princípios morais:
+
+53
+00:04:05,080 --> 00:04:08,720
+(a) Nossas ações devem respeitar a autonomia dos indivíduos.
+
+54
+00:04:09,260 --> 00:04:12,820
+(b) Não devemos causar dor ou sofrimento desnecessariamente.
+
+55
+00:04:12,820 --> 00:04:14,820
+(c) Devemos preservar a vida.
+
+56
+00:04:15,380 --> 00:04:20,860
+Agora pense no caso de um doente terminal, que está sofrendo muito nos seus últimos dias, e pede por favor
+
+57
+00:04:20,860 --> 00:04:24,300
+aos médicos para injetarem uma injeção letal nele.
+
+58
+00:04:24,660 --> 00:04:30,500
+Se os médicos não aplicarem a injeção, então essa ação violará (a) a autonomia do paciente;
+
+59
+00:04:30,500 --> 00:04:34,220
+e também (b), pois causa indiretamente dor desnecessária ao paciente.
+
+60
+00:04:34,320 --> 00:04:41,180
+Agora, se os médicos aplicarem a injeção no paciente, então eles estariam violando (c), uma vez que eles não estariam preservando a vida
+
+61
+00:04:41,180 --> 00:04:44,060
+- mesmo de um paciente que está com caso terminal.
+
+62
+00:04:44,060 --> 00:04:48,560
+Como podemos ver, na ética aplicada, grande parte dos problemas são de  coneguir entender
+
+63
+00:04:48,560 --> 00:04:50,940
+como que as normas vão funcionar no dia-a-dia.
+
+64
+00:04:50,940 --> 00:04:57,140
+Por que em muitos casos parecem que existem dilemas morais, onde alguns princípios que aceitamos
+
+65
+00:04:57,140 --> 00:04:59,460
+parecem se contradizer um com o outro.
+
+66
+00:05:00,220 --> 00:05:05,400
+Vamos para o próximo ponto? A metaética é uma sub-área da filosofia moral que visa compreender a
+
+67
+00:05:05,400 --> 00:05:09,200
+próprio natureza da ética e o significado das expressões morais.
+
+68
+00:05:09,200 --> 00:05:13,980
+Como a gente viu, na ética normativa nós estudamos as normas e os princípios que deveríamos aceitar
+
+69
+00:05:13,980 --> 00:05:15,980
+pra determinar o que é uma ação correta ou incorreta.
+
+70
+00:05:15,980 --> 00:05:20,960
+Mas diferente disso, na metaética, nós não estamos perguntando quais são as ações corretas.
+
+71
+00:05:20,960 --> 00:05:24,400
+mas sim o que faz uma ação ser correta ou incorreta.
+
+72
+00:05:24,840 --> 00:05:31,100
+Então, diferente da ética normativa, a metaética não tenta determinar quais são as normas, ou seja, não é normativa.
+
+73
+00:05:31,100 --> 00:05:35,420
+E diferente da ética prática, a metaética trabalha com problemas muito mais abstratos.
+
+74
+00:05:35,740 --> 00:05:40,000
+Vejamos um problema famoso na metaética, que é a distinção entre fato e valor.
+
+75
+00:05:40,320 --> 00:05:45,040
+Peguemos por exemplos a expressão "Este cartaz é azul". O que estamos fazendo?
+
+76
+00:05:45,040 --> 00:05:50,380
+Aparentemente estamos escrevendo um fato no mundo: que existe algo que é o objeto "este cartaz"
+
+77
+00:05:50,380 --> 00:05:55,660
+e ele tem uma propriedade que é "ser azul". Parece que este fato que torna essa frase verdadeira.
+
+78
+00:05:56,020 --> 00:06:02,000
+Agora pegue uma expressão valorativa típica em filosofia moral, como "Matar é errado". O que estamos fazendo?
+
+79
+00:06:02,220 --> 00:06:06,820
+Nós estamos dizendo que existe um fato, algo no mundo, que é a ação de matar
+
+80
+00:06:06,820 --> 00:06:09,340
+e ela tem uma propriedade que é "ser errada'?
+
+81
+00:06:09,340 --> 00:06:11,620
+Ou seja, existem fatos morais?
+
+82
+00:06:12,080 --> 00:06:16,980
+Propriedades que tornam certos objetos do mundo certos ou errados, como as ações?
+
+83
+00:06:17,880 --> 00:06:20,120
+Existem filósofos, por exemplo, que vão contra isso.
+
+84
+00:06:20,120 --> 00:06:27,660
+Acreditam, por exemplo, que expressões morais (valorativas) são na verdade meras expressões dos nossos sentimentos
+
+85
+00:06:27,660 --> 00:06:34,480
+e emoções, como falar "matar é errado" é a mesma coisa que "matar...não gosto". Ou "matar: nã".
+
+86
+00:06:35,580 --> 00:06:38,180
+Espero que vocês tenham entendido um pouco mais sobre metaética.
+
+87
+00:06:38,540 --> 00:06:46,340
+Bom, como eu disse, essas três áreas (ética normativa, ética aplicada e metaética),  são 3 sub-áreas da ética
+
+88
+00:06:46,340 --> 00:06:53,500
+mas essas distinções são um pouco frágeis, por que existem problemas que tratam de um ou mais problemas ao mesmo tempo.
+
+89
+00:06:55,000 --> 00:06:59,420
+Eu realmente espero que tenham entendido, nos nossos próximos vídeos vamos falar mais sobre ética,
+
+90
+00:06:59,420 --> 00:07:06,340
+sobre outros problemas específicos, vamos escrever algumas teorias também como deontologismo, utilitarismo, ética das virtudes.
+
+91
+00:07:06,560 --> 00:07:10,800
+E eu espero que vocês acompanhem o canal. Muito obrigado por todo mundo que está assistindo.
+
+92
+00:07:10,800 --> 00:07:17,200
+Se você gostou, curte, compartilha. Se vocês quiserem saber mais sobre filosofia, increva-se no canal.
+
+93
+00:07:17,380 --> 00:07:19,380
+Muito obrigado e até a próxima!
+
