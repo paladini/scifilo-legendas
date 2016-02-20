@@ -1,0 +1,479 @@
+1
+00:00:00,720 --> 00:00:03,160
+Eaí, como você tá?
+
+2
+00:00:03,520 --> 00:00:06,140
+[ Perguntinha capciosa essa ein? 
+Uma vírgula muda tudo. ]
+
+3
+00:00:06,140 --> 00:00:10,340
+Seguinte, seguindo a linha dos 3 últimos vídeos, que era uma série de "O que é, o que é"...
+
+4
+00:00:10,340 --> 00:00:12,040
+Estão aqui os vídeos.
+
+5
+00:00:12,040 --> 00:00:18,260
+Hoje vamos falar sobre epistemologia, então logo antes de começar eu quero fazer algumas perguntas.
+
+6
+00:00:18,480 --> 00:00:21,140
+Vocês realmente sabem o que é conhecimento?
+
+7
+00:00:21,980 --> 00:00:24,820
+Você realmente sabe aquilo que você acha que você sabe?
+
+8
+00:00:25,680 --> 00:00:31,680
+Você sabia que saber o que você acha que você sabe é uma problema de saber o que é o próprio saber?
+
+9
+00:00:31,680 --> 00:00:33,480
+Você sabia que o sabia sabia assobiar?
+
+10
+00:00:33,880 --> 00:00:37,600
+Quer dizer, essa última pergunta eu não vou poder responder agora não.
+
+11
+00:00:37,600 --> 00:00:43,560
+Mas as outras são todas tratadas pela área do conhecimento, em filosofia, que é a epistemologia.
+
+12
+00:00:43,560 --> 00:00:48,280
+Então vamos falar um pouco de filosofia e saber se nós realmente sabemos o que é saber?
+
+13
+00:00:48,740 --> 00:00:51,220
+Eu sou Kherian Gracher e este é o SciFilo.
+
+14
+00:01:04,960 --> 00:01:09,840
+Antes que perguntem qual a diferença de epistemologia e teoria do conhecimento: 
+não existe nenhuma.
+
+15
+00:01:10,020 --> 00:01:13,160
+Epistemologia é um termo que vem do grego e pode ser traduzido como "estudo do conhecimento"
+
+16
+00:01:13,160 --> 00:01:17,500
+ou teoria do conhecimento. 
+Basicamente é isso, o resto é exegese.
+
+17
+00:01:17,740 --> 00:01:20,320
+Mas a gente ainda fica com a pergunta: o que é epistemologia?
+
+18
+00:01:20,460 --> 00:01:26,220
+Como o filósfo Michael Williams disse, a gente pode responder isso simplesmente dizendo que
+
+19
+00:01:26,220 --> 00:01:30,620
+é a área da filosofia que se ocupa do conhecimento humano, mas isso não quer dizer quase nada.
+
+20
+00:01:30,960 --> 00:01:35,360
+Então acredito que a melhor forma de entendermos o que é epistemologia é estudarmos as sub-áreas
+
+21
+00:01:35,360 --> 00:01:37,460
+da epistemologia e alguns dos seus problemas.
+
+22
+00:01:37,740 --> 00:01:42,640
+A primeira sub-área da filosofia que vamos ver é uma que trata dos problemas mais antigos da epistemologia,
+
+23
+00:01:42,640 --> 00:01:45,220
+que é o problema da definição do conhecimento.
+
+24
+00:01:45,220 --> 00:01:49,220
+Esse problema tenta analizar a própria natureza do conhecimento: o que é o conhecimento?
+
+25
+00:01:49,420 --> 00:01:54,780
+Quando você diz que sabe que 2 + 2 = 4 ou sabe que está assistindo a um vídeo agora, o que isso significa?
+
+26
+00:01:54,940 --> 00:01:59,220
+Qual a diferença entre o conhecimento e uma mera opinião ou crença?
+
+27
+00:01:59,540 --> 00:02:04,740
+Pense no seguinte exemplo. Digamos que você tem um amigo que joga na Loteria hoje e diz pra você:
+
+28
+00:02:04,740 --> 00:02:06,740
+"Eu sei que eu vou ganhar na Loteria".
+
+29
+00:02:06,740 --> 00:02:10,560
+E por uma coincidência (sorte), ele vai lá e ganha mesmo na Loteria.
+
+30
+00:02:10,640 --> 00:02:16,360
+A gente podia dizer que sabia que ele ia ganhar na Loteria ou ele teve apenas uma opinião sortuda,
+
+31
+00:02:16,360 --> 00:02:19,760
+uma crença de que ia ganhar? Parece que é o segundo caso, não é?
+
+32
+00:02:19,760 --> 00:02:24,980
+O problema da definição do conhecimento, portanto, é compreender o significado do conceito de conhecimento
+
+33
+00:02:24,980 --> 00:02:28,520
+e o que distingue conhecer algo de ter apenas uma opinião sobre algo.
+
+34
+00:02:29,460 --> 00:02:33,880
+Esse problema vai suscitar novos problemas e em outras sub-áreas da epistemologia.
+
+35
+00:02:34,200 --> 00:02:37,980
+Por exemplo, pense em uma teoria clássica da epistemologia que defende que conhecimento
+
+36
+00:02:37,980 --> 00:02:39,540
+envolve algo com justificação.
+
+37
+00:02:39,540 --> 00:02:43,680
+Ou seja, alguém conhece algo quando ele está justificado para acreditar naquilo.
+
+38
+00:02:43,920 --> 00:02:49,160
+Lembre-se do caso do seu amigo, ele acreditava que ele ia ganhar na loteria, mas parece que ele não tinha conhecimento.
+
+39
+00:02:49,260 --> 00:02:55,060
+Os defensores dessa teoria clássica vão falar que ele não sabia daquilo porque ele não tinha justificação para acreditar naquilo.
+
+40
+00:02:55,060 --> 00:03:02,100
+Desse modo, essas teorias vão levar a novas sub-áreas da filosofia como por exemplo qual é a natureza da
+
+41
+00:03:02,100 --> 00:03:07,780
+justificação, ou qual é a estrutura do conhecimento e da justificação.
+
+42
+00:03:08,040 --> 00:03:13,420
+Essas outras sub-áreas são peculiares e muito complicadas para discutir agora, então nos próximos
+
+43
+00:03:13,420 --> 00:03:17,560
+vídeos aí pra frente eu vou fazer falando só sobre esses pontos.
+
+44
+00:03:17,560 --> 00:03:23,040
+Vamos para a próxima sub-área da filosofia, que é o problema de saber quais são as fontes do conhecimento.
+
+45
+00:03:23,380 --> 00:03:27,940
+Aparentemente nós conhecemos a realidade, mas parece que existem várias formas de obter
+
+46
+00:03:27,940 --> 00:03:34,120
+conhecimento acerca do mundo. Por exemplo, a gente pode dizer que esse cartaz é azul, e na verdade,
+
+47
+00:03:34,120 --> 00:03:36,580
+aparentemente nós sabemos que esse cartaz é azul.
+
+48
+00:03:36,580 --> 00:03:41,740
+Mas qual seria a fonte de conhecimento que permite a gente dizer que sabe isso? A visão.
+
+49
+00:03:41,920 --> 00:03:48,300
+Do mesmo modo, quando alguém te chama numa sala e você responde, parece que você sabe que estão te chamando por conta da audição.
+
+50
+00:03:48,600 --> 00:03:54,080
+Do mesmo modo que sabemos que o açúcar é doce por conta do paladar. Ou que o chinelo da nossa mãe doia
+
+51
+00:03:54,080 --> 00:03:55,080
+por conta do tato.
+
+52
+00:03:55,440 --> 00:04:01,700
+A percepção, desse modo, parece ser uma boa fonte de conhecimento. Algo que nós...o modo de conhecermos o mundo.
+
+53
+00:04:02,140 --> 00:04:04,980
+Um outro caso, por exempo, é a memória.
+
+54
+00:04:04,980 --> 00:04:09,000
+Pense agora: você está assistindo esse vídeo e tem a percepção disso,
+
+55
+00:04:09,000 --> 00:04:11,000
+mas e o que você comeu ontem?
+
+56
+00:04:11,440 --> 00:04:16,260
+Ontem você tinha a percepção da comida, mas agora é apenas a lembrança.
+
+57
+00:04:16,260 --> 00:04:19,920
+De algum modo, parece que a memória também é uma fonte de conhecimento.
+
+58
+00:04:20,020 --> 00:04:22,020
+Agora pense em outro caso.
+
+59
+00:04:22,760 --> 00:04:29,440
+Pense nas Pirâmides de Gizé, na Muralha da China ou que a água é formada por duas moléculas de hidrogênio...
+
+60
+00:04:29,440 --> 00:04:31,440
+[átomos de hidrogênio]
+
+61
+00:04:34,220 --> 00:04:36,040
+e uma de oxigênio.
+
+62
+00:04:36,360 --> 00:04:42,460
+Aparentemente - grande parte das vezes - você não foi na China para descobrir que tinha as Pirâmides de Gizé...
+
+63
+00:04:45,200 --> 00:04:48,640
+Aparentemente você não foi na China para descobrir que tem a Grande Muralha.
+
+64
+00:04:49,320 --> 00:04:55,920
+Você também não foi no Egito para ver as Pirâmides de Gizé - pode ser que você tenha ido, tudo bem; mas digamos que você não tenha ido.
+
+65
+00:04:55,920 --> 00:05:00,720
+E você provavelmente não fui em um laboratório para descobrir que a água é formada de H2O.
+
+66
+00:05:00,720 --> 00:05:07,280
+Assim, o testemunho parece uma grande forma de justificação ou forma de obter conhecimento acerca do mundo.
+
+67
+00:05:07,280 --> 00:05:13,780
+Outras fontes de justificação seriam também a introspecção e a própria razão, no entanto não vou me delongar demais nesses pontos.
+
+68
+00:05:13,780 --> 00:05:20,100
+O problema das fontes de conhecimento trata exatamente de compreender quais são as formas confiáveis de conhecimento e quando
+
+69
+00:05:20,100 --> 00:05:22,100
+podemos usá-las com segurança.
+
+70
+00:05:22,720 --> 00:05:28,780
+A próxima sub-área que veremos é a que trata do problema da possibilidade e dos limites do conhecimento.
+
+71
+00:05:29,020 --> 00:05:35,520
+Essa é uma das sub-áreas da epistemologia mais conhecidas. Nela discutimos se podemos de fato obter conhecimento do mundo
+
+72
+00:05:35,520 --> 00:05:37,520
+e quais são os limites do nosso conhecimento.
+
+73
+00:05:37,520 --> 00:05:41,860
+Vejamos, por exemplo, uma posição nesse debate que é uma das mais conhecidas.
+
+74
+00:05:41,860 --> 00:05:48,280
+Hoje em dia é muito comum as pessoas se chamarem de céticas. No entanto, o ceticismo é uma posição na epistemologia que nega
+
+75
+00:05:48,280 --> 00:05:52,480
+totalmente ou parcialmente a possibilidade sobre termos conhecimentos sobre o mundo.
+
+76
+00:05:55,120 --> 00:06:00,220
+De acordo com o ceticismo, sempre podemos por em causa se estamos seguros ao afirmar que conhecemos algo ou não,
+
+77
+00:06:00,220 --> 00:06:02,780
+mesmo no caso que temos as crenças mais fortes.
+
+78
+00:06:02,780 --> 00:06:05,500
+Vejamos um exemplo geralmente proposto por um cético.
+
+79
+00:06:05,500 --> 00:06:11,080
+Antes nós tinhamos dito que nós conhecemos que esse cartaz é azul em virtude da nossa visão.
+
+80
+00:06:11,360 --> 00:06:16,760
+Sabemos, por exemplo, que estamos sendo chamados quando escutamos o nosso nome, por causa da audição.
+
+81
+00:06:16,760 --> 00:06:19,900
+Sabemos que o açúcar é doce por conta do paladar.
+
+82
+00:06:19,900 --> 00:06:25,220
+Enfim, parece que nós conhecemos o mundo através da percepção - e essa é uma fonte de conhecimento.
+
+83
+00:06:25,220 --> 00:06:28,680
+No entanto, vejamos o cenário do filme Matrix.
+
+84
+00:06:28,680 --> 00:06:32,420
+Se você não assistiu, cuidado que vem spoiler aí pela frente.
+
+85
+00:06:32,420 --> 00:06:41,180
+Nesse filme, o pesonagem principal, Neo, acreditava que vivia no mundo real. Acreditava que o computador na frente dele
+
+86
+00:06:41,180 --> 00:06:47,560
+estava funcionando - e ele tinha a crença de que o computador estava funcionando. Aparentemente ele sabia que o computador estava funcionando.
+
+87
+00:06:47,560 --> 00:06:56,700
+No entanto, até uma parte do filme, Trinity e Morpheus (outros 2 personagens centrais), lhe oferecem a famosa pílula vermelha.
+
+88
+00:07:12,240 --> 00:07:17,760
+Quando ele toma, ele percebe então, ele sai da Matrix, ele descobre que tudo aquilo que ele chamava de realidade
+
+89
+00:07:17,760 --> 00:07:21,800
+na verdade era um sofisticado programa ou realidade virtual,
+
+90
+00:07:21,800 --> 00:07:24,460
+na qual ele pensava que estava vivendo.
+
+91
+00:07:24,460 --> 00:07:30,180
+No final das contas podemos dizer que Neo realmente sabia que havia um computador funcionando na frente dele?
+
+92
+00:07:30,180 --> 00:07:35,400
+Aparantemente não. Esse caso é um dos casos chamados de cenários céticos.
+
+93
+00:07:35,400 --> 00:07:40,880
+Que os céticos apresentam para mostrar que...bom, e se nós estivermos vivendo em uma Matrix?
+
+94
+00:07:40,880 --> 00:07:46,840
+Será que nós realmente podemos confiar na nossa percepção? Nosso tato, paladar, audição e visão?
+
+95
+00:07:46,840 --> 00:07:51,540
+Responder ao ceticismo é um dos problemas clássicos da epistemologia e ainda está em debate.
+
+96
+00:07:51,540 --> 00:07:56,680
+Em algum vídeo para frente eu pretendo fazer algo que fale só sobre o ceticismo e algumas respostas a ele.
+
+97
+00:07:56,680 --> 00:08:00,480
+De modo geral, eu espero que você tenha entendido um pouco mais o que é epistemologia
+
+98
+00:08:00,480 --> 00:08:05,420
+que no final das contas, de fato, é uma área da filosofia que estuda o conhecimento humano.
+
+99
+00:08:05,420 --> 00:08:07,420
+Só que tem problemas muito mais profundos.
+
+100
+00:08:08,220 --> 00:08:15,540
+Antes de terminar, eu preciso desfazer uma confusão muito comum que as pessoas tem, que é acreditar que epistemologia e filosofia da ciência são a mesma coisa.
+
+101
+00:08:15,540 --> 00:08:22,060
+Esse tipo de confusão (acredito eu) acontece por causa que o termo epistemologia  vem do termo grego "episteme"
+
+102
+00:08:22,060 --> 00:08:25,340
+que pode ser traduzido tanto como conhecimento ou ciência.
+
+103
+00:08:25,600 --> 00:08:28,980
+No entanto, usamos hoje em dia o termo ciência de um modo um pouco diferente:
+
+104
+00:08:28,980 --> 00:08:34,280
+Nós usamos ciência para designar uma grande área do conhecimento que trata de fenômenos naturais e humanos,
+
+105
+00:08:34,280 --> 00:08:40,300
+como física, biologia, química, história, sociologia e etc.
+
+106
+00:08:40,440 --> 00:08:46,960
+Como eu disse em um dos primeiros vídeos ("O que é filosofia?"), nós podemos dividir a filosofia em 3 grandes aŕeas:
+
+107
+00:08:46,960 --> 00:08:51,380
+metafísica, ética ou filosofia moral, e epistemologia ou teoria do conhecimento.
+
+108
+00:08:51,380 --> 00:08:57,360
+Depois disso nós vamos encontrar sub-áreas da filosofia, que são áreas que intersectam essas 3 grandes áreas.
+
+109
+00:08:57,360 --> 00:09:00,040
+Em um dos exemplos que eu citei, a filosofia da ciência.
+
+110
+00:09:00,040 --> 00:09:06,940
+Existem áreas ou problemas tratados na filosfia da ciência que não tem nada a ver com epistemologia.
+
+111
+00:09:06,940 --> 00:09:14,360
+Por exemplo, pense no problema acerca da natureza do tempo - esse é um problema da metafisica, que é trabalhada pela filosofia da ciência mas que
+
+112
+00:09:14,360 --> 00:09:16,400
+não tem absolutamente nada a ver com epistemologia.
+
+113
+00:09:16,400 --> 00:09:22,740
+Nós podemos falar do problema acerca de como conhecemos o tempo, mas a pergunta "o que é o tempo", a natureza do próprio tempo
+
+114
+00:09:22,740 --> 00:09:24,340
+é uma pergunta metafísica.
+
+115
+00:09:24,340 --> 00:09:29,040
+Por outro lado, existem perguntas em epistemologia que não tem nada a ver com filosofia da ciência,
+
+116
+00:09:29,040 --> 00:09:33,480
+como por exemplo: "será a memória uma boa forma de obtermos conhecimento acerca do mundo?".
+
+117
+00:09:33,480 --> 00:09:37,820
+Este é um problema tratado estritamente pela epistemologia e não pela filosofia da ciência.
+
+118
+00:09:37,820 --> 00:09:42,660
+Então eu espero que vocês tenham entendido que epistemologia e filosofia da ciência são duas áreas distintas.
+
+119
+00:09:43,500 --> 00:09:52,480
+Se você gostou, curte, compartilha se puder e se quiser saber mais sobre filosofia se inscreva no canal, tem mais coisa vindo por aí.
+
