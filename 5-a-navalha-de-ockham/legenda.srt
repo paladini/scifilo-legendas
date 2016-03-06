@@ -1,0 +1,265 @@
+1
+00:00:00,000 --> 00:00:01,540
+Eaí gente, tudo bem?
+
+2
+00:00:01,720 --> 00:00:05,420
+Bom, se você é um teorista da conspiração acho que você não vai gostar muito desse vídeo não.
+
+3
+00:00:05,420 --> 00:00:10,120
+Hoje nós vamos falar sobre o princípio da parcimônia ou da simplicidade.
+
+4
+00:00:10,120 --> 00:00:14,100
+Também conhecida como a famigerada e tão temida Navalha de Ockham.
+
+5
+00:00:15,560 --> 00:00:18,660
+Perai, a gente já volta...
+
+6
+00:00:24,180 --> 00:00:31,960
+Voltando...Vamos descobrir o que mais a Navalha de Ockham corta além de pescoço e discutir um pouco de filosofia?
+
+7
+00:00:31,960 --> 00:00:34,300
+Eu sou Kherian Gracher e este é o SciFilo.
+
+8
+00:00:47,240 --> 00:00:52,560
+A Navalha de Ockham é geralmente apresentada como sendo um argumento e atribuída ao filósofo britânico
+
+9
+00:00:52,560 --> 00:00:56,640
+e o monge medieval Guilherme de Ockham - ou conhecido como William Of Ockham.
+
+10
+00:00:56,780 --> 00:01:02,000
+Ela é geralmente apresentada como: "as entidades não devem ser multiplicadas sem necessidade"
+
+11
+00:01:02,000 --> 00:01:09,060
+ou, de outro modo, "entre duas teoriasdistintas, ambas adequadas para explicar o mesmo fenômeno, devemos escolher a que emprega menos entidades".
+
+12
+00:01:09,060 --> 00:01:14,320
+Mas há dois problemas aí: essas expressões típicas que conhecemos como sendo Navalha de Ockham não são argumentos.
+
+13
+00:01:14,460 --> 00:01:17,500
+E o segundo ponto é que não são do Guilherme de Ockham.
+
+14
+00:01:17,500 --> 00:01:23,500
+Embora não encontremos essas formulações nos escritos de Ockham, encontramos algumas frases que são bem parecidas.
+
+15
+00:01:23,680 --> 00:01:28,000
+Vejamos: "a pluralidade não deve ser postulada sem necessidade".
+
+16
+00:01:28,080 --> 00:01:38,960
+Outra frase famosa é: "Pois nada deve ser postulado sem uma razão dada, a menos que seja sabido por meio de si mesmo, sabido por experiência ou provado pela autoridade da Escritura Sagrada".
+
+17
+00:01:38,960 --> 00:01:44,220
+É argumentável que Ockham está se referindo a um princípio - a uma máxima - muito conhecida naquela época,
+
+18
+00:01:44,400 --> 00:01:48,100
+que era o Princípio da Parcimônia, que é encontrado nos escritos até de Aristóteles.
+
+19
+00:01:48,240 --> 00:01:57,160
+Acredita-se que essas expressões comuns que temos hoje da Navalha de Ockham teria sido inventada por volta de 1850, 1852.
+
+20
+00:01:57,160 --> 00:02:02,240
+E teria sido atribuído à Ockham devido algumas posições filosóficas que ele assume, por exemplo:
+
+21
+00:02:02,240 --> 00:02:04,820
+ele é famoso como sendo um filósofo nominalista.
+
+22
+00:02:04,820 --> 00:02:11,600
+O nominalismo é uma posição em Metafísica que nega a existência de vários tipos de entidades que um realista comum defende.
+
+23
+00:02:11,600 --> 00:02:19,260
+Por exemplo, nega a existência de universais e coisas do tipo. Eu não vou falar sobre isso agora porque renderia um vídeo inteiro e eu pretendo falar sobre isso mais pra frente...
+
+24
+00:02:19,260 --> 00:02:25,840
+Por outro lado, a Navalha de Ockham não é um argumento em si, mas apenas um princípio utilizado para formular outros argumentos.
+
+25
+00:02:26,580 --> 00:02:30,960
+Ela pode ser tomada de dois modos: como princípio metafísico ou como princípio metodológico.
+
+26
+00:02:30,960 --> 00:02:36,720
+Sendo ela um princípio metafísico, ela visa negar a existência de vários tipos de entidades que são postuladas
+
+27
+00:02:36,720 --> 00:02:44,820
+Como um princípio metodológico, ela é usada para dizer que não devemos postular a existência de entidades - ou a próprio inexistência - sem boas razões.
+
+28
+00:02:45,020 --> 00:02:50,080
+Mas repare bem na diferença entre assumir a Navalha de Ockham como um princípio metafísico e como um princípio metodológico:
+
+29
+00:02:50,080 --> 00:02:57,740
+para isso, vamos usar o exemplo da rainha de Ockham, aquela que usa a Navalha de Okcham "like a ninja": Dana Scully, de "Arquivo X".
+
+30
+00:03:03,020 --> 00:03:07,780
+Os casos em que o Mulder e a Scully investigam no Arquivo X, quase sempre beiram as raias do absurdo.
+
+31
+00:03:07,860 --> 00:03:12,980
+São casos que envolvem abdução alienígena, controle da mente, existência de monstros e coisas do tipo.
+
+32
+00:03:13,280 --> 00:03:20,780
+No começo de cada investigação, quando eles chegam, veem o caso e as evidências, o Mulder sempre oferece teorias bizarras.
+
+33
+00:03:21,100 --> 00:03:29,760
+Por outro lado, a Scully sempre tenta fazer teorias que não exigem a existência ou a ocorrência de algum evento estranho ou entidades absurdas e bizarras.
+
+34
+00:03:36,260 --> 00:03:43,780
+Temos assim, que tanto as teorias que o Mulder oferece quanto as que a Scully oferecem conseguem descrever as evidências encontradas.
+
+35
+00:03:44,000 --> 00:03:50,840
+Por um lado, as teorias que a Scully oferece sempre se baseiam em fatos cientificos e dados já observados pela ciência.
+
+36
+00:03:51,060 --> 00:04:00,140
+Por outro lado, as teorias que o Mulder oferece, além de utilizar fatos científicos, como por exemplo: a vítima morreu sufocada ou cortada por uma navalha.
+
+37
+00:04:00,140 --> 00:04:05,200
+Ele se baseia também em eventos ou existências de entidades muito estranhas, como monstros.
+
+38
+00:04:05,440 --> 00:04:12,840
+Vejamos agora como aplicar a Navalha de Ockham nesse exemplo tanto como sendo um princípio metafísico como sendo um princípio metodológico.
+
+39
+00:04:12,960 --> 00:04:15,520
+Primeiro vamos ver como sendo um princípio metafísico.
+
+40
+00:04:15,560 --> 00:04:20,580
+Vejamos o seguinte argumento: 
+(P1) A teoria da Scully e a teoria do Mulder descrevem as evidências.
+
+41
+00:04:20,740 --> 00:04:24,560
+(P2) A teoria da Scully descreve as evidências apelando apenas para fatos científicos.
+
+42
+00:04:24,720 --> 00:04:30,160
+(P3) A Teoria do Mulder descrever as evidências apelando para fatos científicos e para a existência de entidades não conhecidas.
+
+43
+00:04:30,440 --> 00:04:35,660
+(P4) Haja vista a teoria da Scully, não precisamos postular a existência de entidades não conhecidas para explicar as evidências.
+
+44
+00:04:35,800 --> 00:04:39,880
+Mas vejamos agora a aplicação da Navalha de Ockham como um princípio metafísico.
+
+45
+00:04:40,340 --> 00:04:48,880
+Se não precisamos postular a existência de uma entidade qualquer para explicar qualquer fenômeno que tentamos explicar, então não devemos acreditar na existência de tal entidade.
+
+46
+00:04:49,080 --> 00:04:54,540
+Portanto, não devemos acreditar na existência das entidades ou eventos para explicar tais fenômenos ou evidências.
+
+47
+00:04:54,740 --> 00:05:00,140
+Vejamos agora como aplicar a Navalha de Ockham como sendo um princípio metodológico. Veja esse exemplo:
+
+48
+00:05:00,840 --> 00:05:03,660
+(P1) A teoria da Scully e a toria do Mulder descrevem as evidências.
+
+49
+00:05:03,720 --> 00:05:07,280
+(P2) A teoria da Scully descreve as evidências apelando apenas para fatos científicos.
+
+50
+00:05:07,280 --> 00:05:12,300
+(P3) A teoria do Mulder descreve as evidências apelando para fatos científicos e para a existência de entidades não conhecidas.
+
+51
+00:05:12,580 --> 00:05:17,980
+(P4) Haja vista a teoria da Scully, não precisamos postular a existência de entidades não conhecidas para explicar as evidências.
+
+52
+00:05:18,060 --> 00:05:21,040
+Olha a Navalha de Ockham como sendo um princípio metodológico agora.
+
+53
+00:05:21,460 --> 00:05:30,960
+Se duas teorias explicam igualmente bem certos fenômenos devemos acreditar na teoria que postula menos entidades do que uma teoria rival (sem perda de força explanatória).
+
+54
+00:05:31,160 --> 00:05:33,720
+Logo, não devemos acreditar na teoria do Mulder.
+
+55
+00:05:33,720 --> 00:05:44,240
+Ou podemos ver a conclusão anterior como: "não devemos postular a ocorrência ou existência das entidades oferecidas pela teoria do Mulder em virtude das evidências que estamos tentando explicar.
+
+56
+00:05:44,240 --> 00:05:51,780
+Repare que no primeiro argumento a Navalha de Ockham pode ser utilizada para negar a existência de certos tipos de entidades ou ocorrência de certos tipos de eventos.
+
+57
+00:05:51,940 --> 00:05:59,060
+Ela nos diz basicamente que nós não devemos acreditar na existência de certas entidades quando elas não são necessárias.
+
+58
+00:05:59,060 --> 00:06:08,580
+Por outro lado, no segundo argumento, a Navalha de Ockham pode ser utilizada para afirmar simplesmente que nós não devemos postular certas entidades quando elas não são necessárias.
+
+59
+00:06:09,060 --> 00:06:15,160
+Eu realmente gosto muito de uma formulação de um filósofo britânico Timothy Williamson para a Navalha de Ockham.
+
+60
+00:06:15,380 --> 00:06:20,360
+Ela diz o seguinte: "É claro que é objetável postular sem razão que há entidades de um certo tipo".
+
+61
+00:06:20,360 --> 00:06:27,540
+Também é objetável postular sem razão que não há entidades de um certo tipo. É objetável postular seja o que for sem razão."
+
+62
+00:06:27,620 --> 00:06:31,780
+Ou seja, a Navalha de Ockham pode ser entedida como um Princípio de Razoabilidade,
+
+63
+00:06:31,880 --> 00:06:36,360
+Não devemos postular a existência ou inexistência de algo quando não temos boas razões para isso.
+
+64
+00:06:36,580 --> 00:06:40,040
+Eu espero que você tenha entendido um pouco mais sobre o que é Navalha de Ockham,
+
+65
+00:06:40,040 --> 00:06:44,240
+tomar cuidado que ela pode cortar e olha que muitos filósofos já perderam a cabeça por causa dela.
+
+66
+00:06:44,240 --> 00:06:52,080
+Se você gostou: curte, se inscreva em nosso canal e se der compartilhe. Muito obrigado e até a próxima.
+
